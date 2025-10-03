@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "totalLibros": 3,
+    "ultimaActualizacion": "2025-10-03T15:45:05.635Z"
+  },
+  "libros": [
+    {
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "isbn": "978-0307350438",
+      "genero": "Realismo mágico",
+      "estado": "disponible",
+      "id": "db5ab515-feb7-4ab6-b503-1832ca3c1287"
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "isbn": "978-0451524935",
+      "genero": "Ciencia ficción",
+      "estado": "disponible",
+      "id": "d4c57581-a9f7-41c9-9c85-ebdade7cf9a1"
+    },
+    {
+      "titulo": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes",
+      "isbn": "978-8424116361",
+      "genero": "Novela",
+      "estado": "disponible",
+      "id": "7e50167c-4408-4c0d-b197-073392e37e01"
+    }
+  ]
+}

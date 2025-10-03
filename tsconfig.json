@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    /* Opciones Base */
+    "target": "es2020",
+    "module": "commonjs",
+    "strict": true,
+    
+    /* Rutas del Proyecto */
+    "rootDir": "./src",
+    "outDir": "./dist",
+    
+    /* Interoperabilidad de Módulos */
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+
+    /* Omitir chequeos de librerías */
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*"] // Asegura que solo se compile la carpeta 'src'
+}
